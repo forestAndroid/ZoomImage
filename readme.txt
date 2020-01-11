@@ -1,0 +1,1 @@
+修改了https://github.com/jsibbold/zoomage，使得图片放大后四角可以移动到屏幕中心

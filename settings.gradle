@@ -1,0 +1,2 @@
+include ':app', ':zoomage','svg-library'
+rootProject.name='ZoomImage'

@@ -1,0 +1,36 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.larvalabs.svgandroid.test" >
+4
+5    <uses-sdk
+5-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:5:5-74
+6        android:minSdkVersion="15"
+6-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:11:5-15:79
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:13:22-53
+13        android:label="Tests for com.larvalabs.svgandroid.test"
+13-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:15:22-77
+14        android:targetPackage="com.larvalabs.svgandroid.test" />
+14-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:12:22-75
+15
+16    <application
+16-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] /Users/yangxiaolong/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true" >
+18-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:7:18-43
+19        <uses-library android:name="android.test.runner" />
+19-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:8:9-60
+19-->/Users/yangxiaolong/Desktop/ZoomImage/svg-library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8154609579641611683.xml:8:23-57
+20    </application>
+21
+22</manifest>
