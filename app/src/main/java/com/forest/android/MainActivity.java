@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
         imageAdapter.setOnItemClickLitener(new BaseRecylerAdapter.OnItemClickLitener() {
             @Override
             public void onItemClick(View view, int position) {
-//                recyclerView.setVisibility(View.GONE);
 //                imageView.setVisibility(View.VISIBLE);
 //                loadSvg(svgBeanList.get(position).resId);
                 startActivity(new Intent(MainActivity.this,ZoomActivity.class).putExtra("resId",svgBeanList.get(position).resId));
